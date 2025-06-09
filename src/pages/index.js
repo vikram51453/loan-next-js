@@ -36,7 +36,7 @@ export default function Home() {
       <section id="home" className="relative">
         <div className="w-full h-[300px] relative">
           <Image
-            src="/banner.jpg"
+            src="/banner1.jpg"
             alt="Loan Management Banner"
             fill
             className="object-cover"
